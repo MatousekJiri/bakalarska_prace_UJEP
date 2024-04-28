@@ -1,7 +1,8 @@
 #ifndef StatusLed_h
 #define StatusLed_h
 
-#include <Arduino.h>
+//připojení knihoven
+#include <Arduino.h> 
 #include "Adafruit_NeoPixel.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/queue.h"
